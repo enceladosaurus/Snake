@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ed3c4fc01f6b6c542bc63ed0847fc3f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallCubePrefab: {fileID: 5300441373268205941, guid: fe576d4bbb235f34490c6bd22da864cd, type: 3}
+  - gameData: {fileID: 11400000, guid: 91f118bd467f25e45890d24b459b4261, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
